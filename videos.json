@@ -102,10 +102,10 @@ Funerals have been held for two Palestinian women and their eight children, kill
 "tag":"",
 "level":"",
 "views":"13,168"}
- 
+ Education=0, News=1, Speech=2, Entertainment=3, Music=4
 ],"kategori":[{
  "id":"1",
-"categoryName":"",
-"categoryCode":""
+"categoryName":"Education,News,Speech,Entertainment,Music",
+"categoryCode":"0,1,2,3,4"
 }]
 }
