@@ -11,7 +11,8 @@
 "category":"",
 "tag":"",
 "level":"",
-"views":""},]}  Education=0, News=1, Speech=2, Entertainment=3, Music=4
+"views":""},]}  Recently Added , Mixed , Education , News , Speech , Entertainment ,   Music
+                  0            ,   1   ,    2     ,    3  ,   4    ,       5       ,     6       
                  Left Quote    “                    Right Quote    ”      Apostrophe   ‛
 */
 
@@ -26,7 +27,7 @@
 "duration":"04:22",
 "channelName":"Billie Eilish",
 "channelImage":"",
-"category":"4",
+"category":"6",
 "tag":"",
 "level":"",
 "views":"59,849,690"},
@@ -41,7 +42,7 @@
 "duration":"08:50",
 "channelName":"Jimmy Kimmel Live",
 "channelImage":"",
-"category":"3",
+"category":"5",
 "tag":"",
 "level":"",
 "views":"3,506,109"},
@@ -55,7 +56,7 @@
 "duration":"15:30",
 "channelName":"TEDx Talks",
 "channelImage":"",
-"category":"2",
+"category":"4",
 "tag":"",
 "level":"",
 "views":"3,492,350"},
@@ -69,7 +70,7 @@
 "duration":"25:57",
 "channelName":"AJ Hoge",
 "channelImage":"",
-"category":"0",
+"category":"2",
 "tag":"",
 "level":"",
 "views":"3,492,350"},
@@ -83,7 +84,7 @@
 "duration":"14:24",
 "channelName":"mmm",
 "channelImage":"",
-"category":"0",
+"category":"2",
 "tag":"",
 "level":"",
 "views":"3,492,350"},
@@ -98,16 +99,15 @@ Funerals have been held for two Palestinian women and their eight children, kill
 "duration":"03:06",
 "channelName":"Al Jazeera English",
 "channelImage":"",
-"category":"1",
+"category":"3",
 "tag":"",
 "level":"",
 "views":"13,168"}
 ],"kategori":[{
  "id":"1",
-"categoryName":"Recently Added,Mixed,Trending,Education,News,Speech,Entertainment,Music",
-"categoryCode":"0,1,2,3,4,5,6,7",
+"categoryName":"Recently Added,Mixed,Education,News,Speech,Entertainment,Music",
+"categoryCode":"0,1,2,3,4,5,6",
 "categoryImage":"https://github.com/Boga28/Video/raw/main/category.jpg,
-https://github.com/Boga28/Video/raw/main/category.jpg,
 https://github.com/Boga28/Video/raw/main/category.jpg,
 https://github.com/Boga28/Video/raw/main/category.jpg,
 https://github.com/Boga28/Video/raw/main/category.jpg,
