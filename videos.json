@@ -1,5 +1,4 @@
-/*  {"video":[
-
+/*{"video":[
  {"id":"1",
 "videoUrl":"",
 "srtUrl":"",
@@ -12,9 +11,7 @@
 "category":"",
 "tag":"",
 "level":"",
-"views":""},
-       ]
-   }  Education=0, News=1, Speech=2, Entertainment=3, Music=4 */
+"views":""},]}  Education=0, News=1, Speech=2, Entertainment=3, Music=4*/
 
 {"video":[
   
