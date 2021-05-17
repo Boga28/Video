@@ -15,24 +15,26 @@
 "views":""},]}  Recently Added , Mixed , Education , News , Speech , Entertainment ,   Music
                   0            ,   1   ,    2     ,    3  ,   4    ,       5       ,     6       
                  Left Quote    “                    Right Quote    ”      Apostrophe   ‛
+          Level:   1            2           3           4          5           6
+                 #DAF7A6     #FFC300     #33FFCA      #33E3FF    #E333FF    #FF3368
 */
 
 {"video":[
   
   {"id":"6",
-"videoUrl":"https://www.youtube.com/watch?v=fzeWc3zh01g",
-"srtUrl":"https://raw.githubusercontent.com/Boga28/Video/main/subtitle/advanced_speaking.srt",
-"thumbnail":"https://github.com/Boga28/Video/raw/main/thumbnail/Billie_Eilish.jpg",
-"header":"Billie Eilish - Your Power (Official Music Video)",
-"description":"Pre-order the new album “Happier Than Ever”, out July 30",
-"duration":"04:22",
-"channelName":"Billie Eilish",
-"channelImage":"https://github.com/Boga28/Video/raw/main/ytb.png",
+"videoUrl":"https://www.youtube.com/watch?v=DPJv5u1EcaM",
+"srtUrl":"https://raw.githubusercontent.com/Boga28/Video/main/subtitle/Eminem-Lose_Yourself.srt",
+"thumbnail":"https://i.ytimg.com/vi/DPJv5u1EcaM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGasrYbMaeLstdlP27m76hI3z0VQ",
+"header":"Eminem - Lose Yourself (seslendiren J.Fla)",
+"description":"You can transfer all my songs from here; Spotify:http://bit.ly/JFla-Spotify",
+"duration":"03:18",
+"channelName":"JFlaMusic",
+"channelImage":"https://yt3.ggpht.com/ytc/AAUvwnhE8au71e9t6e3JoxbOcIXcSRtllZUMSV_YuBvHrg=s88-c-k-c0x00ffffff-no-rj-mo",
 "category":"6",
 "tag":"",
-"level":"1",
-"levelColor":"#FFEC33",
-"views":"59,849,690"},
+"level":"4",
+"levelColor":"#33E3FF",
+"views":"25,757,966 views},
   
   
    {"id":"5",
