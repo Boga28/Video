@@ -21,7 +21,7 @@
   
   {"id":"6",
 "videoUrl":"https://www.youtube.com/watch?v=fzeWc3zh01g",
-"srtUrl":"",
+"srtUrl":"https://raw.githubusercontent.com/Boga28/Video/main/subtitle/advanced_speaking.srt",
 "thumbnail":"https://github.com/Boga28/Video/raw/main/thumbnail/Billie_Eilish.jpg",
 "header":"Billie Eilish - Your Power (Official Music Video)",
 "description":"Pre-order the new album “Happier Than Ever”, out July 30",
@@ -37,7 +37,7 @@
   
    {"id":"5",
 "videoUrl":"https://www.youtube.com/watch?v=EBbNPLjrPnw",
-"srtUrl":"",
+"srtUrl":"https://raw.githubusercontent.com/Boga28/Video/main/subtitle/advanced_speaking.srt",
 "thumbnail":"https://github.com/Boga28/Video/raw/main/thumbnail/Billie_Eilish.jpg",
 "header":"Jamie Foxx on LeBron James & Huge House Parties",
 "description":"Jamie talks about being friends with LeBron James, throwing crazy parties at his house with NBA players, having a Mariachi band perform for Denzel Washington, and his new movie with Robert Downey Jr.",
@@ -52,7 +52,7 @@
   
   {"id":"4",
 "videoUrl":"https://www.youtube.com/watch?v=Ge7c7otG2mk",
-"srtUrl":"",
+"srtUrl":"https://raw.githubusercontent.com/Boga28/Video/main/subtitle/advanced_speaking.srt",
 "thumbnail":"https://github.com/Boga28/Video/raw/main/thumbnail/Billie_Eilish.jpg",
 "header":"Learning a language? Speak it like you‛re playing a video game",
 "description":"Marianna Pascal shows how the secret to speaking a new language with confidence is all about attitude, not ability. Marianna Pascal helps professionals achieve greater success in life by communicating effectively in English. Marianna began her career as an actor and performed across her native Canada in film television and on stage for 15 years. Today, Marianna improves the way employees relate to their bosses, clients, colleagues and other key stakeholders. Marianna is also the Official Communication Trainer for Miss Malaysia World. An award-wining speaker, Marianna is known for her humorous speech on Youtube titled ❝Local English or Standard English❞ which has been seen by over a million people worldwide. Marianna is also the author of the best-selling book series English Fast & Easy. The most recent was # 2 on Borders‛ Best-Selling List for non-fiction. This talk was given at a TEDx event using the TED conference format but independently organized by a local community.",
@@ -67,7 +67,7 @@
   
   {"id":"3",
 "videoUrl":"https://www.youtube.com/watch?v=d1uVmE1J1U8",
-"srtUrl":"",
+"srtUrl":"https://raw.githubusercontent.com/Boga28/Video/main/subtitle/advanced_speaking.srt",
 "thumbnail":"https://github.com/Boga28/Video/raw/main/thumbnail/Billie_Eilish.jpg",
 "header":"Fluent In 6 Months | The Secrets To Faster Success",
 "description":" How to Speak English Fluently In 6 Months | What‛s the secret to fluency? How long do you need? Here are the secrets to speaking English fluently in 6 months, using the Effortless English System. This system is designed.",
@@ -82,7 +82,7 @@
   
    {"id":"2",
 "videoUrl":"https://www.youtube.com/watch?v=G80UXlmfrHA",
-"srtUrl":"",
+"srtUrl":"https://raw.githubusercontent.com/Boga28/Video/main/subtitle/advanced_speaking.srt",
 "thumbnail":"https://github.com/Boga28/Video/raw/main/thumbnail/Billie_Eilish.jpg",
 "header":"Improve your English with daily habits",
 "description":"In this video, I am sharing 4 simple things you can do and you MUST DO EVERY DAY to improve your English. I will help you create daily habits to improve and improve your English skills every day! Read the full text of this lesson on my blog.",
@@ -97,7 +97,7 @@
   
  {"id":"1",
 "videoUrl":"https://www.youtube.com/watch?v=ewVH-_RU7a0",
-"srtUrl":"",
+"srtUrl":"https://raw.githubusercontent.com/Boga28/Video/main/subtitle/advanced_speaking.srt",
 "thumbnail":"https://github.com/Boga28/Video/raw/main/thumbnail/Billie_Eilish.jpg",
 "header":"Israeli hit on Gaza refugee camp kills 10, including 8 children",
 "description":"A warning to viewers, there are disturbing images at the beginning of this report.
@@ -110,7 +110,9 @@ Funerals have been held for two Palestinian women and their eight children, kill
 "level":"",
 "levelColor":"",
 "views":"13,168"}
-],"kategori":[{
+],
+ 
+ "kategori":[{
  "id":"1",
 "categoryName":"Recently Added,Mixed,Education,News,Speech,Entertainment,Music",
 "categoryCode":"0,1,2,3,4,5,6",
