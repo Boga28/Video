@@ -15,8 +15,8 @@
 "levelColor":"",
 "views":""},
 
-]}  Recently Added , Mixed , Education , News & Politics , Speech , Entertainment ,   Music
-                  0            ,   1   ,    2     ,         3        ,   4    ,       5       ,     6   
+]}  Recently Added , Mixed , Education , News & Politics , Speech , Entertainment ,   Music , Documentary
+       0          ,   1   ,     2     ,         3        ,   4    ,       5       ,     6   ,     7
                   
                  Left Quote    “                    Right Quote    ”      Apostrophe   ‛
                  
@@ -24,6 +24,21 @@
                  #DAF7A6     #FFC300     #33FFCA      #33E3FF    #E333FF    #FF3368*/
 
 {"video":[
+ 
+  {"id":"8",
+"videoUrl":"https://www.youtube.com/watch?v=t5UPnuSTRjA&ab_channel=DWDocumentary",
+"srtUrl":"https://www.youtube.com/api/timedtext?v=t5UPnuSTRjA&asr_langs=de%2Cen%2Ces%2Cfr%2Cit%2Cja%2Cko%2Cnl%2Cpt%2Cru&caps=asr&exp=xftt&xorp=true&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1621296416&sparams=ip%2Cipbits%2Cexpire%2Cv%2Casr_langs%2Ccaps%2Cexp%2Cxorp%2Cxoaf&signature=72DC6E15F91794F5879629E58420F194D4530ACD.B8EB9137AC56C1AF429C2F7D4F7A600100790706&key=yt8&lang=en&fmt=vtt",
+"thumbnail":"https://i.ytimg.com/vi_webp/t5UPnuSTRjA/maxresdefault.webp",
+"header":"Fact vs. fake – why don’t we trust science any more? | DW Documentary",
+"description":"Asbestos, climate change, 5G, coronavirus - the public is caught in a battle for the truth. Science is being manipulated and undermined to sway opinion and create doubt. What are the mechanisms behind it all?\n\nNever has scientific knowledge seemed so vast, detailed and widely shared. And yet it appears to be increasingly challenged.\n\nIt’s no longer surprising to see private corporations put strategies in place to confuse public debate and paralyze political decision-making. Why did it take decades to classify tobacco as harmful? Why do people still deny human involvement in climate change? Overwhelmed by an excess of information, how can we, as citizens, sort out fact from fiction? \n\nOne by one, this film dismantles the machinations that aim to turn science against itself. With the help of declassified archives and testimonies from experts, lobbyists and politicians, this investigation plunges us into the science of doubt. Along with a team of experts, including philosophers, economists, cognitive scientists, politicians, and scholars, we explore concrete examples of how doubt can be sown, and try to understand the process.\n\n#science #5G #conspiracy #documentary #dwdocumentary\nـــــ\nDW Documentary gives you knowledge beyond the headlines. Watch top documentaries from German broadcasters and international production companies. Meet intriguing people, travel to distant lands, get a look behind the complexities of daily life and build a deeper understanding of current affairs and global events. Subscribe and explore the world around you with DW Documentary.\n\nSubscribe to: \nDW Documentary: https://www.youtube.com/channel/UCW39zufHfsuGgpLviKh297Q?sub_confirmation=1#\nDW Documental (Spanish): https://www.youtube.com/dwdocumental\nDW Documentary وثائقية دي دبليو: (Arabic): https://www.youtube.com/dwdocarabia\n\nFor more visit:\nhttp://www.dw.com/en/tv/docfilm/s-3610\nInstagram:\nhttps://www.instagram.com/dwdocumentary/\nFacebook:\nhttps://www.facebook.com/dw.stories\n\nWe kindly ask viewers to read and stick to the DW netiquette policy on our channel: https://p.dw.com/p/MF1G",
+"duration":"42:26",
+"channelName":"DW Documentary",
+"channelImage":"https://yt3.ggpht.com/ytc/AAUvwngZWs2Vbtw41me7gOZKheKBHJf74xjpLZ1pLqfrzA=s48-c-k-c0x00ffffff-no-rj",
+"category":"7",
+"tag":"",
+"level":"4",
+"levelColor":"#33E3FF",
+"views":"607.947 views"},
  
  {"id":"7",
 "videoUrl":"https://www.youtube.com/watch?v=q4SPW9mk2ro&ab_channel=LucyThomasMusic",
@@ -134,8 +149,8 @@
  
  "kategori":[{
  "id":"1",
-"categoryName":"Recently Added,Mixed,Education,News & Politics,Speech,Entertainment,Music",
-"categoryCode":"0,1,2,3,4,5,6",
+"categoryName":"Recently Added,Mixed,Education,News & Politics,Speech,Entertainment,Music,Documentary",
+"categoryCode":"0,1,2,3,4,5,6,7",
 "categoryImage":"https://github.com/Boga28/Video/raw/main/category.jpg,
 https://github.com/Boga28/Video/raw/main/category.jpg,
 https://github.com/Boga28/Video/raw/main/category.jpg,
