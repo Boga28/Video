@@ -15,15 +15,30 @@
 "levelColor":"#",
 "views":""},
 
-]}  Recently Added , Mixed ,  Music    ,  Entertainment   ,  Education , Speech ,   News & Politics , Documentary
-       0          ,   1    ,     2     ,         3        ,       4    ,    5   ,         6         ,      7
-                  
+]}  Recently Added , Mixed ,  Music    ,  Entertainment & Comedy   ,     Education , Speech ,   News & Politics , Documentary
+       0          ,   1    ,     2     ,                 3        ,       4        ,    5   ,         6         ,      7
+                   
                  Left Quote    “                    Right Quote    ”      Apostrophe   ‛
                  
           Level:   1            2           3           4          5           6
                  #DAF7A6     #FFC300     #33FFCA      #33E3FF    #E333FF    #FF3368*/
 
 {"video":[
+ 
+  {"id":"11",
+"videoUrl":"https://www.youtube.com/watch?v=ifr5WC8sgGo",
+"srtUrl":"https://raw.githubusercontent.com/Boga28/Video/main/subtitle/Window_Thoughts_with_President_Trump.srt",
+"thumbnail":"https://i.ytimg.com/vi_webp/ifr5WC8sgGo/maxresdefault.webp",
+"header":"The Tonight Show Starring Jimmy Fallon",
+"description":"Exclusive footage of Donald Trump's innermost thoughts as he window-gazes from the White House during the government shutdown.\n\nSubscribe NOW to The Tonight Show Starring Jimmy Fallon: http://bit.ly/1nwT1aN\n\nWatch The Tonight Show Starring Jimmy Fallon Weeknights 11:35/10:35c\nGet more Jimmy Fallon: \nFollow Jimmy: http://Twitter.com/JimmyFallon\nLike Jimmy: https://Facebook.com/JimmyFallon\n\nGet more The Tonight Show Starring Jimmy Fallon: \nFollow The Tonight Show: http://Twitter.com/FallonTonight\nLike The Tonight Show: https://Facebook.com/FallonTonight\nThe Tonight Show Tumblr: http://fallontonight.tumblr.com/\n\nGet more NBC: \nNBC YouTube: http://bit.ly/1dM1qBH\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://nbctv.tumblr.com/\n\nThe Tonight Show Starring Jimmy Fallon features hilarious highlights from the show including: comedy sketches, music parodies, celebrity interviews, ridiculous games, and, of course, Jimmy's Thank You Notes and hashtags! You'll also find behind the scenes videos and other great web exclusives.\n\nWindow Thoughts with President Trump\nhttp://www.youtube.com/fallontonight\n\n#FallonTonight\n#JimmyFallon",
+"duration":"1:50",
+"channelName":"The Tonight Show Starring Jimmy Fallon",
+"channelImage":"https://yt3.ggpht.com/ytc/AAUvwngMHRpUXkeNCQwoHrGghknq3HetNZ0uO1uryBcurA=s48-c-k-c0x00ffffff-no-rj",
+"category":"3",
+"tag":"",
+"level":"3",
+"levelColor":"#33FFCA",
+"views":"395.623 views"},
  
   {"id":"10",
 "videoUrl":"https://www.youtube.com/watch?v=OTnJrYyn8ac",
@@ -179,7 +194,7 @@
  
  "kategori":[{
  "id":"1",
-"categoryName":"Recently Added,Mixed,Music,Entertainment,Education,Speech,News & Politics,Documentary",
+"categoryName":"Recently Added,Mixed,Music,Entertainment & Comedy,Education,Speech,News & Politics,Documentary",
 "categoryCode":"0,1,2,3,4,5,6,7",
 "categoryImage":"https://images.pexels.com/photos/2168975/pexels-photo-2168975.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500,
 https://images.pexels.com/photos/3413462/pexels-photo-3413462.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500,
