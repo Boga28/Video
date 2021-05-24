@@ -15,8 +15,9 @@
 "levelColor":"#",
 "views":""},
 
-]}  Recently Added , Mixed ,  Music    ,  Entertainment & Comedy   ,     Education , Speech ,   News & Politics , Documentary
-       0          ,   1    ,     2     ,                 3        ,       4        ,    5   ,         6         ,      7
+
+]}  Recently Added , Mixed ,  Music    ,  Entertainment & Comedy   ,     Education , Speech ,   News & Politics , Documentary , Science & Technology
+       0          ,   1    ,     2     ,                 3        ,       4        ,    5   ,         6         ,      7                8
                    
                  Left Quote    “                    Right Quote    ”      Apostrophe   ‛
                  
@@ -24,6 +25,21 @@
                  #DAF7A6     #FFC300     #33FFCA      #33E3FF    #E333FF    #FF3368*/
 
 {"video":[
+ 
+  {"id":"18",
+"videoUrl":"https://www.youtube.com/watch?v=nX1KUPZC3Ck",
+"srtUrl":"https://raw.githubusercontent.com/Boga28/Video/main/subtitle/The_Meat_Lobby_How_the_Meat_Industry_Hides_the_Truth.srt",
+"thumbnail":"https://i.ytimg.com/vi_webp/nX1KUPZC3Ck/maxresdefault.webp",
+"header":"The Meat Lobby: How the Meat Industry Hides the Truth",
+"description":"The Meat Lobby: How the Meat Industry Hides the Truth | Investigative Documentary from 2016\n\nIn 2015, the WHO listed one of the additives in processed meats as carcinogenic. That same additive was nearly banned in America in the 1970s – until lobbying from the meat industry discredited the scientists. We reveal how, to impede or halt regulations on certain additives, lobbyists have been working in the shadows for decades. At the heart of this strategy are the scientists who collaborate, who receive generous compensation for studies that promote meat consumption. In conjunction with this, those whose work finds health risks associated with meat are ‘shut down’. From Brittany to Denmark, through California and Wisconsin, director Sandrine Rigaud conducted a year-long investigation on the tactics of the meat industry.\n▬▬▬▬▬▬▬▬▬\nSubscribe ENDEVR for free: https://bit.ly/3e9YRRG\nJoin the club and become a Patron: https://www.patreon.com/freedocumentary\nFacebook: https://bit.ly/2QfRxbG\nInstagram: https://www.instagram.com/endevrdocs/\n▬▬▬▬▬▬▬▬▬\n#FreeDocumentary #ENDEVR #MeatLobby\n▬▬▬▬▬▬▬▬▬\nENDEVR explains the world we live in through high-class documentaries, special investigations, explainers videos and animations. We cover topics related to business, economics, geopolitics, social issues and everything in between that we think are interesting.",
+"duration":"52:26",
+"channelName":"ENDEVR",
+"channelImage":"https://yt3.ggpht.com/ytc/AAUvwnjhRmR4WjtZeFG9qZhVDB1NEB1U1ggIdyiWSlSS2A=s48-c-k-c0x00ffffff-no-rj",
+"category":"8",
+"tag":"",
+"level":"6",
+"levelColor":"#FF3368",
+"views":"1.427.995 views"},
  
  {"id":"17",
 "videoUrl":"https://www.youtube.com/watch?v=ZiSRCPiklhI",
@@ -285,8 +301,8 @@
  
  "kategori":[{
  "id":"1",
-"categoryName":"Recently Added,Mixed,Music,Entertainment & Comedy,Education,Speech,News & Politics,Documentary",
-"categoryCode":"0,1,2,3,4,5,6,7",
+"categoryName":"Recently Added,Mixed,Music,Entertainment & Comedy,Education,Speech,News & Politics,Documentary,Science & Technology",
+"categoryCode":"0,1,2,3,4,5,6,7,8",
 "categoryImage":"https://images.pexels.com/photos/2168975/pexels-photo-2168975.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500,
 https://images.pexels.com/photos/3413462/pexels-photo-3413462.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500,
 https://images.pexels.com/photos/761963/pexels-photo-761963.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500,
@@ -294,6 +310,7 @@ https://images.pexels.com/photos/3394310/pexels-photo-3394310.jpeg?auto=compress
 https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500,
 https://images.pexels.com/photos/3321793/pexels-photo-3321793.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500,
 https://images.pexels.com/photos/177557/pexels-photo-177557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940,
-https://images.pexels.com/photos/5769686/pexels-photo-5769686.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4peXvMZnsESUiqnqxc6_tQDcwLd1SbwWrH_V6Bf2jUewyiMsf-X21wiKGMzDihqIjEK0&usqp=CAU",
+  
 }]
 }
