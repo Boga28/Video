@@ -1,6 +1,6 @@
 /*{"video":[
 
- {"id":"2",
+ {"id":"3",
 "videoUrl":"",
 "srtUrl":"",
 "thumbnail":"",
@@ -25,6 +25,21 @@
                  #DAF7A6     #FFC300     #33FFCA      #33E3FF    #E333FF    #FF3368*/
 
 {"video":[
+ 
+  {"id":"29",
+"videoUrl":"https://www.youtube.com/watch?v=KzARx0EuDgc",
+"srtUrl":"https://raw.githubusercontent.com/Boga28/Video/main/subtitle/See_You_Again_Love_Me_Like_You.srt",
+"thumbnail":"https://i.ytimg.com/vi_webp/KzARx0EuDgc/maxresdefault.webp",
+"header":"See You Again / Love Me Like You Do / Sugar (Acoustic Mashup)",
+"description":"\"See You Again/Love Me Like You Do/Sugar (Acoustic Mashup)\" available now:  https://smarturl.it/seeyouagainmashup\n\nPresenting our first three person mashup! “See You Again” by Wiz Khalifa feat. Charlie Puth, “Love Me Like You Do” by Ellie Goulding, and “Sugar” by Maroon 5. Crazy times. Filmed with Jacs and our friend Tasha, who you may recognize from our “Dark Horse” video as that ridiculously cool person filming at the end. \n\nBecause why not? Yolo. Just kidding...but seriously. :)\n \nThanks for continuing to watch these. We love making them.\n\nxx\n\nMegan\n\nCheck out Jac's channel at http://www.youtube.com/jacndavies\n\nWebsite: https://www.megandaviesmusic.com/\nSpotify: https://bit.ly/MDSpotifypage\nApple Music: https://bit.ly/MDapple\nYouTube: https://www.youtube.com/megandavies\nInstagram: https://www.instagram.com/meganadavies/\nFacebook: https://www.facebook.com/megandaviesmusic\nTwitter: https://twitter.com/meganadavies",
+"duration":"4:13",
+"channelName":"Megan Davies",
+"channelImage":"https://yt3.ggpht.com/ytc/AAUvwnisCC9zSmi7ni4hoRHBXYor1W6ZkS8WRZd9PTHX=s48-c-k-c0x00ffffff-no-rj-mo",
+"category":"2",
+"tag":"",
+"level":"3",
+"levelColor":"#33FFCA",
+"views":"74.551.694 views"},
  
   {"id":"28",
 "videoUrl":"https://www.youtube.com/watch?v=21Z4RIOFhMA",
