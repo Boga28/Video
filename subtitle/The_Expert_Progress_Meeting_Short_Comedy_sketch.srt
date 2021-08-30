@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:04,620
+So I'm happy to report we have succeeded in rerouting our flagships.
+
+2
+00:00:04,900 --> 00:00:08,260
+Way ahead of schedule, yet again.
+
+3
+00:00:08,260 --> 00:00:12,260
+This has allowed us to improve our USPs by 90%.
+
+4
+00:00:13,260 --> 00:00:15,300
+That's 9 out of every 10!
+
+5
+00:00:15,540 --> 00:00:17,700
+Excellent, thank you Samuel.
+
+6
+00:00:17,700 --> 00:00:21,500
+Timothy, what's the status with the Linear Solutions?
+
+7
+00:00:21,500 --> 00:00:24,060
+Could you give us the latest on the Square project?
+
+8
+00:00:24,060 --> 00:00:28,380
+The Linear Solutions department has yet again functioned at full capacity.
+
+9
+00:00:28,380 --> 00:00:32,260
+And we have fulfilled a 114% of this month's objectives.
+
+10
+00:00:32,540 --> 00:00:35,300
+You can read the handouts for a detailed account,
+
+11
+00:00:35,300 --> 00:00:40,860
+but in short, as I reported last week, we've decided to use the right angle for the Square project.
+
+12
+00:00:40,860 --> 00:00:44,260
+Now, there's still some debate as to how big a right angle is,
+
+13
+00:00:44,260 --> 00:00:51,140
+so we're testing currently at 90, 97, 100 and 101 degrees.
+
+14
+00:00:51,140 --> 00:00:55,900
+As agreed, I've ensured Anderson crosschecks the design removing any left angles
+
+15
+00:00:55,900 --> 00:00:58,260
+and doesn't use them in future.
+
+16
+00:00:58,260 --> 00:01:00,780
+Overall, we have very good progress with the design.
+
+17
+00:01:00,780 --> 00:01:04,940
+Are we on track with the schedule? When are we required to start delivering?
+
+18
+00:01:04,940 --> 00:01:09,140
+I'm happy to report that we are ready to start first deliveries tomorrow
+
+19
+00:01:09,140 --> 00:01:11,820
+which is way ahead of the requested delivery schedule.
+
+20
+00:01:11,820 --> 00:01:14,860
+We've only just finished system testing the prototype
+
+21
+00:01:14,860 --> 00:01:17,460
+and are only halfway through performance testing.
+
+22
+00:01:17,460 --> 00:01:20,420
+We haven't even released an alpha version, yet!
+
+23
+00:01:20,420 --> 00:01:22,940
+As I said earlier, we've had very good progress with the design.
+
+24
+00:01:22,940 --> 00:01:25,100
+Yes, we've had very good progress;
+
+25
+00:01:25,100 --> 00:01:29,420
+but I'd say the design of the product is only 75% complete.
+
+26
+00:01:29,420 --> 00:01:32,060
+Well exactly! That's 3 out of every 4
+
+27
+00:01:32,060 --> 00:01:34,340
+so we're ready to start shipping tomorrow.
+
+28
+00:01:34,340 --> 00:01:37,540
+What? It... It doesn't work like that!
+
+29
+00:01:38,460 --> 00:01:42,300
+We'll produce, say, 4 units, but only ship the first 3!
+
+30
+00:01:42,300 --> 00:01:45,260
+Then when you're finally a 100% complete with the design --
+
+31
+00:01:45,260 --> 00:01:48,740
+-- we can then ship the 4th.
+
+32
+00:01:50,340 --> 00:01:53,740
+Excellent work Timothy, you can proceed with the production!
+
+33
+00:01:53,740 --> 00:01:58,140
+Anderson, send me, please, a revised delivery schedule, so I can share it with the client.
+
+34
+00:01:58,140 --> 00:02:02,900
+Well, thank you everyone, this was very productive.
+
+35
+00:02:02,900 --> 00:02:04,900
+Yet again!
+
+36
+00:02:18,700 --> 00:02:21,100
+FINAL DELIVERY SCHEDULE
+
+37
+00:02:23,340 --> 00:02:24,940
+REVISED DELIVERY SCHEDULE
+
