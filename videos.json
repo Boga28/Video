@@ -1,6 +1,6 @@
 /*{"video":[
 
- {"id":"9",
+ {"id":"10",
 "videoUrl":"",
 "srtUrl":"",
 "thumbnail":"",
@@ -25,6 +25,21 @@
                  #DAF7A6     #FFC300     #33FFCA      #33E3FF    #E333FF    #FF3368*/
 
 {"video":[
+ 
+  {"id":"100",
+"videoUrl":"https://www.youtube.com/watch?v=XpaOjMXyJGk",
+"srtUrl":"https://raw.githubusercontent.com/Boga28/Video/main/subtitle/Dove_Real_Beauty_Sketches_Youre_more_beautiful_than_you_think_3mins.srt",
+"thumbnail":"https://i.ytimg.com/vi/XpaOjMXyJGk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFcrKI419z2xVRHmI5u-oRA2xXtA",
+"header":"Dove Real Beauty Sketches | You’re more beautiful than you think!",
+"description":"In one of the most famous Dove films, Real Beauty Sketches explores the gap between how others perceive us and how we perceive ourselves. Each woman is the subject of two portraits drawn by FBI-trained forensic artist Gil Zamora: one based on her own description, and the other using a stranger’s observations. The results are surprising…\n\nSubscribe to our YouTube channel [http://goo.gl/Gm2XKY]\nDove.com [https://www.dove.com]\nFacebook [https://www.facebook.com/DoveUS]\nTwitter [https://twitter.com/dove]",
+"duration":"3:00",
+"channelName":"Dove US",
+"channelImage":"https://yt3.ggpht.com/ytc/AKedOLSLTc0Z7gRLIVvf0B4bCeVchHYs0OS9uUCW_iHqyw=s88-c-k-c0x00ffffff-no-rj",
+"category":"3",
+"tag":"",
+"level":"4",
+"levelColor":"#33E3FF",
+"views":"69.633.009 views"},
  
   {"id":"99",
 "videoUrl":"https://www.youtube.com/watch?v=cWs4WA--eKU",
