@@ -500,7 +500,7 @@ You can feel that little bump here.
 
 109
 00:06:44,595 --> 00:06:46,095
-For men it's more noticeable.
+For men it's more noticeable..
 
 110
 00:06:46,875 --> 00:06:51,065
