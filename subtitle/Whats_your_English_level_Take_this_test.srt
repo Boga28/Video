@@ -729,4 +729,3 @@ in the future.
 183
 00:18:16,080 --> 00:18:18,160
 I will see you next time!
-
